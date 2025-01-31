@@ -1,20 +1,10 @@
+<!--
+-----------------------Banner-------------------------------
+-->
+
 <img src="Black and White Modern Business LinkedIn Banner.png" />
 # lapunzalanreadme
-<br clear="both">
 
-<div align="center">
-  <a href="www.linkedin.com/in/lapunzalan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/lapunzalan29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  </a>
-  <a href="mailto:qlapunzalan@tip.edu.ph" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 <img src="macbook-GIF-unscreen.gif" min-width="300px" max-width="300px" width="350px" align="right">
 <h3 align="left">👩‍💻  A Little Data About Me</h3>
 
@@ -26,6 +16,7 @@
 <!--
 -----------------------About Course-------------------------------
 -->
+<br clear="both">
 <h3 align="left">📖 PSMDSRC 103 at a Glance</h3>
 
 ###
@@ -37,7 +28,7 @@
 <!--
 -----------------------Tools/languages-------------------------------
 -->
-
+<br clear="both">
 <h3 align="left">🛠 My Tech Stack</h3>
 
 ###
@@ -55,11 +46,30 @@
 </div>
 
 ###
+<!--
+-----------------------Contact Info-------------------------------
+-->
+<br clear="both">
+<h3 align="left">🤝 Let's connect!</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lapunzalan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=383836&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=qlapunzalan@tip.edu.ph&subject=Hello&body=This%20is%20a%20test%20email." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ebead8&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://codepen.io/lapunzalan29" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=383836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+</div>
+
+###
 
 <!--
 -----------------------Stats-------------------------------
 -->
-
+<br clear="both">
 <br>
 
 <table width="100%" align="center">
@@ -80,7 +90,6 @@
 </td>
 </tr>
 </table>
-<br>
 
 <!--
 -----------------------Footer-------------------------------

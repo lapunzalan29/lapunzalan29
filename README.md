@@ -6,7 +6,6 @@
   <a href="www.linkedin.com/in/lapunzalan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="macbook-GIF-unscreen.gif" min-width="300px" max-width="300px" width="350px" align="right">
   <a href="https://codepen.io/lapunzalan29" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
@@ -16,7 +15,7 @@
 </div>
 
 ###
-
+<img src="macbook-GIF-unscreen.gif" min-width="300px" max-width="300px" width="350px" align="right">
 <h3 align="left">👩‍💻  A Little Data About Me</h3>
 
 ###
@@ -50,7 +49,7 @@
 </div>
 
 ###
-
+<!--
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -70,3 +69,26 @@
 </div>
 
 ###
+-->
+
+<br>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lapunzalan29&theme=apprentice" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lapunzalan29&theme=apprentice" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=lapunzalan29&theme=apprentice" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+<br>

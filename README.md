@@ -4,8 +4,9 @@
 
 <img src="Black and White Modern Business LinkedIn Banner.png" />
 # lapunzalanreadme
-
+<!--
 <img src="macbook-GIF-unscreen.gif" min-width="300px" max-width="300px" width="350px" align="right">
+-->
 <h3 align="left">👩‍💻  A Little Data About Me</h3>
 
 ###

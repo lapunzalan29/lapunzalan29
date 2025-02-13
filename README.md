@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🌲 A Forester Turning to Data Explorer – Used to analyze trees, now learning to analyze data. <br><br>🗣 Multilingual (Tagalog, English, Spanish) – I can switch languages, but now I’m learning to code-switch between Python and SQL.<br><br>💾 Learning a New Language – But this time studying machine languages! – Trying to teach my brain Python before it throws a SyntaxError.<br><br>🏢 Investor Mode– No 9-to-5 job, but I let my money work overtime in businesses.<br><br>🌍 From planting trees to planting ideas in datasets</p>
+<p align="left">🌲 A Forester Turning to Data Explorer – Used to analyze trees, now learning to analyze data. <br><br>🗣 Multilingual (Tagalog, English, Spanish) – I can switch languages, but now I’m learning to code-switch between Python and SQL.<br><br>💾 Learning a New Language – But this time studying machine languages! – Trying to teach my brain Python before it throws a SyntaxError.<br><br>🌍 From planting trees to planting ideas in datasets</p>
 
 ###
 <!--
